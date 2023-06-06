@@ -1,0 +1,47 @@
+- class_name: 友情链接
+  class_desc: 记录大哥们的博客
+  link_list:
+    - name: xnianq
+      link: https://xnianq.cn
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+    - name: Tr1ple
+      link: http://www.cnblogs.com/wfzWebSecuity/
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+    - name: li
+      link: https://blog.iamli.cc/
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+    - name: Aryb1n
+      link: https://aryb1n.github.io/ 
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+    - name: rmb122
+      link: https://rmb122.com/
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+    - name: Lkeme
+      link: https://mudew.com/
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+    - name: Husry
+      link: https://hsury.com/    
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+    - name: MikuBlog
+      link: https://mikublog.com/
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+    - name: WYBs
+      link: https://weiyubo.top/
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
+
+- class_name: 网站
+  class_desc: 自用的一些网站
+  link_list:
+    - name: Bitwarden
+      link: https://bitwarden.dawnnnnnn.com:13443
+      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      descr: ''
