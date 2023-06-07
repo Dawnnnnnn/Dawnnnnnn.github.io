@@ -18,6 +18,7 @@ menu:
   #   Movie: /movies/ || fas fa-video
   链接: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
+  站点地图: /sitemap.xml || fas fa-sitemap
 
 # Code Blocks (代碼相關)
 # --------------------------------------
