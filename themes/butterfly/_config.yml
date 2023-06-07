@@ -35,7 +35,7 @@ code_word_wrap: true
 social:
   fab fa-github: https://github.com/Dawnnnnnn || Github || '#4a7dbe'
   fab fa-bilibili: https://space.bilibili.com/48766812 || BiliBili || '#4a7dbe'
-  fas fa-rss: /atom.xml || RSS || '#4a7dbe',
+  fas fa-rss: /atom.xml || RSS || '#4a7dbe'
   fas fa-envelope: mailto:admin@dawnnnnnn.com || Email || '#4a7dbe'
   
 
