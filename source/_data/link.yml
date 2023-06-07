@@ -1,51 +1,39 @@
 - class_name: 友情链接
   class_desc: 记录大哥们的博客
   link_list:
-    - name: xnianq
-      link: https://xnianq.cn
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
-      descr: ''
     - name: Tr1ple
       link: http://www.cnblogs.com/wfzWebSecuity/
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://ftp.bmp.ovh/imgs/2020/06/8151d4a4dcfc6bcd.jpg
       descr: ''
     - name: li
       link: https://blog.iamli.cc/
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://s2.loli.net/2023/06/07/WlspyK6M3txJGaE.png
       descr: ''
     - name: Aryb1n
       link: https://aryb1n.github.io/ 
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://aryb1n.github.io/img/favicon-new.png
       descr: ''
     - name: rmb122
       link: https://rmb122.com/
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://rmb122.com/favicon.ico
       descr: ''
     - name: Lkeme
       link: https://mudew.com/
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://mudew.com/img/avatar.jpg
       descr: ''
     - name: Husry
       link: https://hsury.com/    
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://kagamiz.com/wp-content/uploads/cropped-favicon-32x32.png
       descr: ''
     - name: MikuBlog
       link: https://mikublog.com/
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://pic.mikucdn.com/wp-image/2016/10/favicon.ico
       descr: ''
     - name: WYBs
       link: https://weiyubo.top/
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://weiyubo.top/img/qt/touxiang.jpeg
       descr: ''
     - name: 林凌
       link: https://mwm.pw/
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
-      descr: ''
-
-- class_name: 网站
-  class_desc: 自用的一些网站
-  link_list:
-    - name: Bitwarden
-      link: https://bitwarden.dawnnnnnn.com:13443
-      avatar: https://bitwarden.dawnnnnnn.com:13443/images/apple-touch-icon.png
+      avatar: https://mwm.pw/wp-content/uploads/2023/05/%E5%A4%B4%E5%83%8F-scaled.jpg
       descr: ''
