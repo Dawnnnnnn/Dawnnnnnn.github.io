@@ -42,11 +42,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://smms.app/image/WlspyK6M3txJGaE
 
 # Avatar (頭像)
 avatar:
-  img: https://avatars.githubusercontent.com/u/24506421
+  img: https://smms.app/image/WlspyK6M3txJGaE
   effect: true
 
 # Disable all banner image
