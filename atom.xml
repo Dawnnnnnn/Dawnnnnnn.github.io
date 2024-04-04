@@ -6,7 +6,7 @@
   <link href="https://dawnnnnnn.com/atom.xml" rel="self"/>
   
   <link href="https://dawnnnnnn.com/"/>
-  <updated>2023-06-08T02:50:00.000Z</updated>
+  <updated>2024-04-04T09:57:00.000Z</updated>
   <id>https://dawnnnnnn.com/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>纷玩岛小程序逆向记录</title>
+    <link href="https://dawnnnnnn.com/2024/04/:/day/%E7%BA%B7%E7%8E%A9%E5%B2%9B%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%80%86%E5%90%91%E8%AE%B0%E5%BD%95/"/>
+    <id>https://dawnnnnnn.com/2024/04/:/day/%E7%BA%B7%E7%8E%A9%E5%B2%9B%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%80%86%E5%90%91%E8%AE%B0%E5%BD%95/</id>
+    <published>2024-04-04T09:57:00.000Z</published>
+    <updated>2024-04-04T09:57:00.000Z</updated>
+    
+    
+    <summary type="html">我抢不到票，我很难受</summary>
+    
+    
+    
+    <category term="安全技术" scheme="https://dawnnnnnn.com/categories/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="微信" scheme="https://dawnnnnnn.com/tags/%E5%BE%AE%E4%BF%A1/"/>
+    
+    <category term="小程序" scheme="https://dawnnnnnn.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    <category term="渗透测试" scheme="https://dawnnnnnn.com/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="安全技术" scheme="https://dawnnnnnn.com/tags/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="纷玩岛" scheme="https://dawnnnnnn.com/tags/%E7%BA%B7%E7%8E%A9%E5%B2%9B/"/>
+    
+    <category term="逆向" scheme="https://dawnnnnnn.com/tags/%E9%80%86%E5%90%91/"/>
+    
+    <category term="爬虫" scheme="https://dawnnnnnn.com/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="JS攻防" scheme="https://dawnnnnnn.com/tags/JS%E6%94%BB%E9%98%B2/"/>
+    
+  </entry>
   
   <entry>
     <title>微信小程序云开发数据库渗透</title>
