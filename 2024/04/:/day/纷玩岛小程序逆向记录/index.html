@@ -229,7 +229,7 @@ gtag('config', 'G-Q9BJJ2RB6C');
 <p>我们发现2828行后对我们逆向分析都没啥用，是公共库函数、微信的一些基础函数、小程序部分关联函数，于是把它们都删了，不然IDE太卡。。。</p>
 <h3 id="漫长的打断点调试"><a href="#漫长的打断点调试" class="headerlink" title="漫长的打断点调试"></a>漫长的打断点调试</h3><p>我们现在有了去混淆的代码，虽然小程序F12中不能用replace功能，但我们可以按照行数对照着看，然后在合适的地方打断点</p>
 <p>在这里就可以，基本涵盖大多数参数的生成方式</p>
-<p><img src="https://s2.loli.net/2024/04/04/RTMok7HZSl2nGsb.png" alt="image.png"></p>
+<p><img src="https://s2.loli.net/2024/04/06/DI4HPlFsnfmw6y9.png" alt="image.png"></p>
 <p>打好断点后，提交订单触发断点，我们可以看到b的值就是经过<code>an(n,un)</code>生成的，我们在控制台打印一下n和un的值</p>
 <p><img src="https://s2.loli.net/2024/04/04/pvH6CK3MEtDVbui.png" alt="image.png"></p>
 <p>然后执行一下an(n,un)</p>
