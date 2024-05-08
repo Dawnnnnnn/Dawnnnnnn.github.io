@@ -6,7 +6,7 @@
   <link href="https://dawnnnnnn.com/atom.xml" rel="self"/>
   
   <link href="https://dawnnnnnn.com/"/>
-  <updated>2024-04-04T09:57:00.000Z</updated>
+  <updated>2024-05-08T04:25:00.000Z</updated>
   <id>https://dawnnnnnn.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux PAM1.1.8后门 CentOS7.6 编译记录</title>
+    <link href="https://dawnnnnnn.com/2024/05/:/day/Linux%20PAM1.1.8%E5%90%8E%E9%97%A8%20Centos7.6%E7%BC%96%E8%AF%91%E8%AE%B0%E5%BD%95/"/>
+    <id>https://dawnnnnnn.com/2024/05/:/day/Linux%20PAM1.1.8%E5%90%8E%E9%97%A8%20Centos7.6%E7%BC%96%E8%AF%91%E8%AE%B0%E5%BD%95/</id>
+    <published>2024-05-08T04:25:00.000Z</published>
+    <updated>2024-05-08T04:25:00.000Z</updated>
+    
+    
+    <summary type="html">记录编译过程中的坑</summary>
+    
+    
+    
+    <category term="安全技术" scheme="https://dawnnnnnn.com/categories/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="编译" scheme="https://dawnnnnnn.com/tags/%E7%BC%96%E8%AF%91/"/>
+    
+    <category term="PAM" scheme="https://dawnnnnnn.com/tags/PAM/"/>
+    
+    <category term="后门" scheme="https://dawnnnnnn.com/tags/%E5%90%8E%E9%97%A8/"/>
+    
+    <category term="SSH" scheme="https://dawnnnnnn.com/tags/SSH/"/>
+    
+    <category term="渗透测试" scheme="https://dawnnnnnn.com/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="安全技术" scheme="https://dawnnnnnn.com/tags/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>纷玩岛小程序逆向记录</title>
@@ -31,13 +60,13 @@
     <category term="安全技术" scheme="https://dawnnnnnn.com/categories/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="微信" scheme="https://dawnnnnnn.com/tags/%E5%BE%AE%E4%BF%A1/"/>
-    
-    <category term="小程序" scheme="https://dawnnnnnn.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
     <category term="渗透测试" scheme="https://dawnnnnnn.com/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
     
     <category term="安全技术" scheme="https://dawnnnnnn.com/tags/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="微信" scheme="https://dawnnnnnn.com/tags/%E5%BE%AE%E4%BF%A1/"/>
+    
+    <category term="小程序" scheme="https://dawnnnnnn.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     <category term="纷玩岛" scheme="https://dawnnnnnn.com/tags/%E7%BA%B7%E7%8E%A9%E5%B2%9B/"/>
     
@@ -64,15 +93,15 @@
     <category term="安全技术" scheme="https://dawnnnnnn.com/categories/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
     
     
+    <category term="渗透测试" scheme="https://dawnnnnnn.com/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="安全技术" scheme="https://dawnnnnnn.com/tags/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
     <category term="微信" scheme="https://dawnnnnnn.com/tags/%E5%BE%AE%E4%BF%A1/"/>
     
     <category term="小程序" scheme="https://dawnnnnnn.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     <category term="云开发" scheme="https://dawnnnnnn.com/tags/%E4%BA%91%E5%BC%80%E5%8F%91/"/>
-    
-    <category term="渗透测试" scheme="https://dawnnnnnn.com/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
-    
-    <category term="安全技术" scheme="https://dawnnnnnn.com/tags/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
