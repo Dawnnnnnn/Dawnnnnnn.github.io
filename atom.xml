@@ -6,7 +6,7 @@
   <link href="https://dawnnnnnn.com/atom.xml" rel="self"/>
   
   <link href="https://dawnnnnnn.com/"/>
-  <updated>2024-05-08T04:25:00.000Z</updated>
+  <updated>2024-06-05T04:30:00.000Z</updated>
   <id>https://dawnnnnnn.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mitmweb 配置 HTTP Basic Auth</title>
+    <link href="https://dawnnnnnn.com/2024/06/:/day/mitmweb%E9%85%8D%E7%BD%AEHTTP%20Basic%20Auth/"/>
+    <id>https://dawnnnnnn.com/2024/06/:/day/mitmweb%E9%85%8D%E7%BD%AEHTTP%20Basic%20Auth/</id>
+    <published>2024-06-05T04:30:00.000Z</published>
+    <updated>2024-06-05T04:30:00.000Z</updated>
+    
+    
+    <summary type="html">苦于官方迟迟不支持HTTP Basic Auth，自己动手丰衣足食</summary>
+    
+    
+    
+    <category term="安全技术" scheme="https://dawnnnnnn.com/categories/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="渗透测试" scheme="https://dawnnnnnn.com/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="安全技术" scheme="https://dawnnnnnn.com/tags/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="抓包" scheme="https://dawnnnnnn.com/tags/%E6%8A%93%E5%8C%85/"/>
+    
+    <category term="mitmproxy" scheme="https://dawnnnnnn.com/tags/mitmproxy/"/>
+    
+    <category term="mitmweb" scheme="https://dawnnnnnn.com/tags/mitmweb/"/>
+    
+  </entry>
   
   <entry>
     <title>Linux PAM1.1.8后门 CentOS7.6 编译记录</title>

@@ -1,7 +1,8 @@
-https://dawnnnnnn.com/2024/05/:/day/Linux%20PAM1.1.8%E5%90%8E%E9%97%A8%20Centos7.6%E7%BC%96%E8%AF%91%E8%AE%B0%E5%BD%95/
+https://dawnnnnnn.com/2024/06/:/day/mitmweb%E9%85%8D%E7%BD%AEHTTP%20Basic%20Auth/
 https://dawnnnnnn.com/categories/index.html
 https://dawnnnnnn.com/link/index.html
 https://dawnnnnnn.com/tags/index.html
+https://dawnnnnnn.com/2024/05/:/day/Linux%20PAM1.1.8%E5%90%8E%E9%97%A8%20Centos7.6%E7%BC%96%E8%AF%91%E8%AE%B0%E5%BD%95/
 https://dawnnnnnn.com/2024/04/:/day/%E7%BA%B7%E7%8E%A9%E5%B2%9B%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%80%86%E5%90%91%E8%AE%B0%E5%BD%95/
 https://dawnnnnnn.com/2023/06/:/day/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%BC%80%E5%8F%91%E6%95%B0%E6%8D%AE%E5%BA%93%E6%B8%97%E9%80%8F/
 https://dawnnnnnn.com/2023/06/:/day/2023%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB%E8%AE%B0%E5%BD%95/
@@ -15,6 +16,9 @@ https://dawnnnnnn.com/tags/%E5%90%8E%E9%97%A8/
 https://dawnnnnnn.com/tags/SSH/
 https://dawnnnnnn.com/tags/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/
 https://dawnnnnnn.com/tags/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/
+https://dawnnnnnn.com/tags/%E6%8A%93%E5%8C%85/
+https://dawnnnnnn.com/tags/mitmproxy/
+https://dawnnnnnn.com/tags/mitmweb/
 https://dawnnnnnn.com/tags/%E5%BE%AE%E4%BF%A1/
 https://dawnnnnnn.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/
 https://dawnnnnnn.com/tags/%E4%BA%91%E5%BC%80%E5%8F%91/
