@@ -5,7 +5,7 @@ updated: 2024/05/08 12:25
 tags: [编译,PAM,后门,SSH,渗透测试,安全技术]
 categories: 安全技术
 description: 记录编译过程中的坑
-cover: https://api.vvhan.com/api/wallpaper/acg
+cover: https://i3.wp.com/wx4.sinaimg.cn/large/0072Vf1pgy1fodqiuq34vj31kw0zkhdt.jpg
 ---
 
 ##  Linux PAM1.1.8后门 CentOS7.6 编译记录
