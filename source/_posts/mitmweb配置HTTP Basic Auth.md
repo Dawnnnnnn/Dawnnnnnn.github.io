@@ -5,7 +5,7 @@ updated: 2024/06/05 12:30
 tags: [抓包,mitmproxy,mitmweb,渗透测试,安全技术]
 categories: 安全技术
 description: 苦于官方迟迟不支持HTTP Basic Auth，自己动手丰衣足食
-cover: https://s2.loli.net/2023/06/07/Zq2nQOiVmxRT59H.jpg
+cover: https://api.vvhan.com/api/wallpaper/acg
 ---
 
 ##  背景
