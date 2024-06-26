@@ -5,7 +5,7 @@ updated: 2024/06/20 13:30
 tags: [前端开发]
 categories: 开发
 description: 强烈不推荐非专业安全人员尝试这种操作!
-cover: https://api.vvhan.com/api/wallpaper/acg
+cover: https://i3.wp.com/wx2.sinaimg.cn/large/0072Vf1pgy1foxlnkwh9ij31hc0u0tqu.jpg
 ---
 
 ##  背景
