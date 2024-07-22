@@ -5,7 +5,7 @@ updated: 2024/07/09 16:30
 tags: [逆向,Python,安全技术,渗透测试]
 categories: 安全技术
 description: 介绍一种能够注入exe后获取到python源代码的方法
-cover: https://api.vvhan.com/api/wallpaper/acg
+cover: https://i1.wp.com/wx4.sinaimg.cn/large/a15b4afely1fnt9nsbnknj21hc0u0k6b.jpg
 ---
 
 ##  简介
