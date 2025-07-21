@@ -1,7 +1,7 @@
 ---
 title: 用MacBookPro打造一个私有nas音乐库
 date: 2025/07/21 19:30
-updated: 2025/07/21 19:30
+updated: 2025/07/21 19:45
 tags: [nas,Navidrome,MusicTagWeb,折腾,音流]
 categories: 技术
 description: 用MacBookPro打造一个私有nas音乐库
@@ -36,7 +36,7 @@ QQ音乐的比较好说，因为我目前还有会员，所以可以直接下载
 1. 禁用自动休眠与节能设置
 ```bash
 sudo systemsetup -setcomputersleep Never
-sudo pmset -b 
+sudo pmset -b sleep 0; sudo pmset -b disablesleep 1
 ```
 2. 进入 系统设置 → 锁定屏幕 → 全部设为 “永不”
 3. 启用自动登录（用户与群组 → 自动登录）
